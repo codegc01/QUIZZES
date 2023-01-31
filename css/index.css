@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+body{
+    background-color: #0f161c;
+    display: grid;
+}
+#nav{
+    margin: 2rem auto 0rem auto;
+}
+#main{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+#main span{
+    width: 5rem;
+    margin: 8rem 3rem 0rem auto;
+    letter-spacing: 5px;
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+#main #center{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+#main #center a{
+    margin: 3rem 0px 0px 3rem;
+    background-color: #ff615e;
+    padding: 1rem;
+    border-radius: 1rem;
+}
