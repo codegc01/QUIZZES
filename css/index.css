@@ -28,7 +28,7 @@ body{
     justify-content: center;
 }
 #main #center a{
-    margin: 3rem 0px 0px 3rem;
+    margin: 3rem 0px 0px -1rem;
     background-color: #ff615e;
     padding: 1rem;
     border-radius: 1rem;
